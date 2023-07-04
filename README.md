@@ -5,8 +5,8 @@ This repository contains a unique implementation of a Dribble clone, carefully c
 https://dribble-clone-omega.vercel.app
 ## Tech Stack
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
+<div align="start">
+  <div style="display: flex; align-items: left; justify-content: left;">
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
     <img src="https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS" />
@@ -14,10 +14,10 @@ https://dribble-clone-omega.vercel.app
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Grafebase" />
   </div>
   <div>
-    <strong>Next.js</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-    <strong>TypeScript</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-    <strong>Tailwind CSS</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-    <strong>GraphQL</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+    <strong>Next.js</strong> 
+    <strong>TypeScript</strong> 
+    <strong>Tailwind CSS</strong>
+    <strong>GraphQL</strong> 
     <strong>Grafebase</strong>
   </div>
 </div>
