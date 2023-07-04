@@ -8,7 +8,7 @@ https://dribble-clone-omega.vercel.app
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  <img src="(https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Grafebase" />
 </div>
