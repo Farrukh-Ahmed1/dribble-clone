@@ -7,17 +7,17 @@ https://dribble-clone-omega.vercel.app
 
 <div align="start">
   <div style="display: flex; align-items: left; justify-content: left;">
-    <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-    <img src="https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS" />
-    <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" />
-    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Grafebase" />
+    &nbsp;<img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" /> &nbsp;&nbsp;
+   &nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Grafebase" />
   </div>
   <div>
-    <strong>Next.js</strong> 
-    <strong>TypeScript</strong> 
-    <strong>Tailwind CSS</strong>
-    <strong>GraphQL</strong> 
+    &nbsp;<strong>Next.js</strong> 
+    &nbsp;&nbsp;<strong>TypeScript</strong> &nbsp;
+    <strong>Tailwind</strong>&nbsp;&nbsp;&nbsp;
+    <strong>GraphQL</strong> &nbsp;&nbsp;
     <strong>Grafebase</strong>
   </div>
 </div>
